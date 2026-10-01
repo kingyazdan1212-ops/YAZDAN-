@@ -1,0 +1,19 @@
+{
+  "name": "YAZDAN",
+  "short_name": "YAZDAN",
+  "description": "پیام‌رسان یزدان",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0e1621",
+  "theme_color": "#17212b",
+  "dir": "rtl",
+  "lang": "fa",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect rx='16' width='64' height='64' fill='%232AABEE'/><text x='50%' y='58%' text-anchor='middle' font-size='34' font-family='Arial' font-weight='800' fill='white'>Y</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
